@@ -1,6 +1,6 @@
 package edu.iudigital;
-import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.*;
+import java.time.LocalDateTime;
 
 public class RegistroDAO {
 
